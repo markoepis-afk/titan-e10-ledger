@@ -1,0 +1,4 @@
+E10-6 READ-ONLY-ON-TRADE DIAGNOSTIC
+App GPT GitHub Contents API create-only check.
+Isolated branch: e10-6/selftest.
+Synthetic data only. Not a pilot or deployment authorization.
